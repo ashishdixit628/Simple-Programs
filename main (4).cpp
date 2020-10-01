@@ -1,11 +1,12 @@
 #include <iostream>  
-using namespace;  
+using namespace std;  
 int main()  
 {  
- int arr[5]={10, 0, 20, 0, 30} 
+ int arr[5]={10, 0, 20, 0, 30};
  
         for (int i = 0; i < 5; i++)    
         {    
             cout<<arr[i]<<"\n";    
         }    
+ return 0;
 }  
