@@ -6,7 +6,7 @@ int main()
  
         for (int i = 0; i < 5; i++)    
         {    
-            cout<<arr[i]<<"\n";    //output the array
+            cout<<arr[i]<<"\n";    //output the declared array
         }    
  return 0;
 }  
