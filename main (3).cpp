@@ -5,9 +5,9 @@ int main()
 {
     int arr[10];
     int n;
-    cin>>n
+    cin>>n;
     cout<<endl;
-    fr(int i=0;i<n;i++)
+    for(int i=0;i<n;i++)
     {
         cin>>arr[i];
     }
@@ -15,4 +15,5 @@ int main()
     {
         cout<<arr[i];
     }
+    return 0;
 }
